@@ -1,1 +1,1 @@
-listing contents in different directory in long format
+shows the type of file
