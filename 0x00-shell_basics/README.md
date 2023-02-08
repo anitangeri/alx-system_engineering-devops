@@ -1,1 +1,1 @@
-corrections on symbolic link
+corrections to copy html files
