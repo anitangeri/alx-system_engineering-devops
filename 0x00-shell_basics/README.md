@@ -1,1 +1,1 @@
-listing all files in the current directory in long format
+listing files with their user id
