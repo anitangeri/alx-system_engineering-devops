@@ -1,1 +1,1 @@
-change to previous directory
+listing contents in different directory in long format
