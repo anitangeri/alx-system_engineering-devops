@@ -1,1 +1,1 @@
-making my first directory
+Changes to first directory
