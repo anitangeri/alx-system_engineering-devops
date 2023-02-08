@@ -1,1 +1,1 @@
-Showing content of files with commas
+correction for listing content of directories
