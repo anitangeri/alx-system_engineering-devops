@@ -1,1 +1,1 @@
-directory deletion update
+change to previous directory
