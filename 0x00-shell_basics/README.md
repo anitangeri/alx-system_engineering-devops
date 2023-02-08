@@ -1,1 +1,1 @@
-Change to user home directory
+listing all files in the current directory in long format
