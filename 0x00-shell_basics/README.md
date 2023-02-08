@@ -1,1 +1,1 @@
-display content of directory in long format
+list more filesin long format
