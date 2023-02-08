@@ -1,1 +1,1 @@
-correction for listing content of directories
+corrections on symbolic link
