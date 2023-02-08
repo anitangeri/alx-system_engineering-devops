@@ -1,1 +1,1 @@
-corrections to copy html files
+creating a magic file
