@@ -1,1 +1,1 @@
-specific permissions
+mirror permissions
