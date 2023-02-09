@@ -1,1 +1,1 @@
-show user groups
+change file ownership
