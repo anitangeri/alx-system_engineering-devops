@@ -1,1 +1,1 @@
-only user permissions
+specific permissions
