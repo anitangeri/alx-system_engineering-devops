@@ -1,1 +1,1 @@
-symbolic link permissions
+change owner if condition met
