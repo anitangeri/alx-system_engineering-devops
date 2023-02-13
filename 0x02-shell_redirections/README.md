@@ -1,1 +1,1 @@
-remove letter c from script
+reverse all inputs
