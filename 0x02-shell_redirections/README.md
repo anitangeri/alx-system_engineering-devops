@@ -1,1 +1,1 @@
-display confused smiley
+display last 10 lines
