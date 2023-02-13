@@ -1,1 +1,1 @@
-show 10 newest files
+show sorted words
