@@ -1,1 +1,1 @@
-decode acrostic
+display host or ip address
