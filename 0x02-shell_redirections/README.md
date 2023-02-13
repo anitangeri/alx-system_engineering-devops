@@ -1,1 +1,1 @@
-display content of etc/passwd file
+display content of two files
