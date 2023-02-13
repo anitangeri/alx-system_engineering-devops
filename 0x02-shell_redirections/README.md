@@ -1,1 +1,1 @@
-hide this word
+display files starting with a letter
