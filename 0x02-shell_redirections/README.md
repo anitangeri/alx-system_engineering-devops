@@ -1,1 +1,1 @@
-copy last line
+find and delete js files
