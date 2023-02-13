@@ -1,1 +1,1 @@
-replace letters
+remove letter c from script
