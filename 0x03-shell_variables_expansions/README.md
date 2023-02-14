@@ -1,1 +1,1 @@
-converts number from base 2 to base 10
+list all combinations of a-z
