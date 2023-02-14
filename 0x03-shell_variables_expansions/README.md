@@ -1,1 +1,1 @@
-encode using rot 13
+display every other line from input
