@@ -1,1 +1,1 @@
-display result of exponent
+converts number from base 2 to base 10
