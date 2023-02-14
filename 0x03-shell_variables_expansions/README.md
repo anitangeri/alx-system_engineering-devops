@@ -1,1 +1,1 @@
-convert number from base 10 to 16
+encode using rot 13
