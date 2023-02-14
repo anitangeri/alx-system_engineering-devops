@@ -1,1 +1,1 @@
-list all combinations of a-z
+print float number with 2 decimal
