@@ -1,1 +1,1 @@
-division
+display result of exponent
